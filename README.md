@@ -1,2 +1,2 @@
 # webServiceExcel
-Basic Macro that requests infor from Internet
+Basic Macro that requests info from Internet
